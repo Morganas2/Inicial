@@ -1,2 +1,2 @@
-# Inicial
+# Projeto Inicial
  Primeiro repositorio versionado
